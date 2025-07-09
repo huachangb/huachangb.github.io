@@ -11,7 +11,7 @@ My interests include (but are not limited to) geometry, representation learning 
 ## Research Interests
 
 - **Machine Learning:** Representation Learning, Foundation Models
-- **Optimization**: TODO
+- More interests will be added in the near future.
 
 
 ## News
