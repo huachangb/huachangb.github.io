@@ -14,9 +14,10 @@ My interests include (but are not limited to) geometry, representation learning 
 - More interests will be added in the near future.
 
 
-## News
-
-- **[Jul. 2025]** First version of my personal website is now online.
+## Updates
+- **[Feb. 2025]** arXiv preprint on 'Keep your distance: learning dispersed embeddings on S_m' is available [here](https://arxiv.org/abs/2502.08231)
+- **[Sep. 2024]** Workshop paper on 'counterfactual risk minimization' accepted at CONSEQUENCES@RecSys
+- **[Jul. 2024]** Workshop paper on 'hyperspherical embedding dispersion' accepted at GRaM@ICML
 
 {% include_relative _includes/publications.md %}
 
