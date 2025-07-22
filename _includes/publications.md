@@ -6,8 +6,10 @@
 %}
 
 <!-- preprints -->
-{% include publication_list.html
-  title="Preprints"
-  id="publications"
-  items=site.data.publications.preprint
-%}
+{% if site.data.publications.preprint %}
+  {% include publication_list.html
+    title="Preprints"
+    id="publications"
+    items=site.data.publications.preprint
+  %}
+{% endif %}
