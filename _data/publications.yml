@@ -13,3 +13,11 @@ main:
     conference:  GRaM workshop @ International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=yh4IjSjAhQ
     image: ./assets/img/ledoh_icml_gram.png
+
+preprint:
+
+  - title: "Keep your distance: learning dispersed embeddings on S_m"
+    authors: Evgeniia Tokarchuk, <strong>Hua Chang Bakker</strong>, Vlad Niculae
+    conference_short: Preprint
+    conference: <strong>arXiv</strong>, 2024.
+    pdf: https://arxiv.org/abs/2502.08231
