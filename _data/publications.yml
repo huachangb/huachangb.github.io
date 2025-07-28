@@ -21,7 +21,7 @@ main:
 
 preprint:
 
-  - title: "Keep your distance: learning dispersed embeddings on S_m"
+  - title: "Keep your distance: learning dispersed embeddings on \\(\\mathbb{S}_m\\)"
     authors: Evgeniia Tokarchuk, <strong>Hua Chang Bakker</strong>, Vlad Niculae
     conference_short: arXiv
     conference: Preprint
