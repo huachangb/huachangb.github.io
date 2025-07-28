@@ -6,7 +6,7 @@ email: hua.chang.bakker (at) student.uva.nl
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Hua Chang Bakker, researcher, machine learning, deep learning
+keywords: Hua Chang Bakker, hua chang bakker, huachang bakker, researcher, machine learning, deep learning
 description: Academic personal homepage of Hua Chang Bakker..
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -20,8 +20,8 @@ linkedin: https://www.linkedin.com/in/hua-chang-bakker/
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# favicon: PATH TO FAVICON
+# favicon_dark: PATH TO FAVICON
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
