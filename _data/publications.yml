@@ -1,5 +1,14 @@
 main:
 
+  - title: "Keep your distance: learning dispersed embeddings on \\(\\mathbb{S}_m\\)"
+    authors: Evgeniia Tokarchuk, <strong>Hua Chang Bakker</strong>, Vlad Niculae
+    conference_short: arXiv
+    conference: Preprint
+    year: 2025
+    pdf: https://openreview.net/pdf?id=5JIQE6HcTd
+    preprint: https://arxiv.org/abs/2502.08231
+    code: https://github.com/ltl-uva/ledoh-torch
+
   - title: "A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization"
     authors: <strong>Hua Chang Bakker</strong>, Shashank Gupta, Harrie Oosterhuis
     conference_short: RecSys
@@ -17,12 +26,13 @@ main:
     pdf: https://openreview.net/pdf?id=yh4IjSjAhQ
 
 
-preprint:
+# preprint:
 
-  - title: "Keep your distance: learning dispersed embeddings on \\(\\mathbb{S}_m\\)"
-    authors: Evgeniia Tokarchuk, <strong>Hua Chang Bakker</strong>, Vlad Niculae
-    conference_short: arXiv
-    conference: Preprint
-    year: 2025
-    pdf: https://arxiv.org/abs/2502.08231
-    code: https://github.com/ltl-uva/ledoh-torch
+#   - title: "Keep your distance: learning dispersed embeddings on \\(\\mathbb{S}_m\\)"
+#     authors: Evgeniia Tokarchuk, <strong>Hua Chang Bakker</strong>, Vlad Niculae
+#     conference_short: arXiv
+#     conference: Preprint
+#     year: 2025
+#     pdf: https://openreview.net/pdf?id=5JIQE6HcTd
+#     preprint: https://arxiv.org/abs/2502.08231
+#     code: https://github.com/ltl-uva/ledoh-torch

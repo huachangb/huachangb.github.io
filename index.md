@@ -9,6 +9,7 @@ My interests include (but are not limited to) geometry, representation learning 
 
 
 ## News
+- **[Aug. 2025]** Paper on 'Keep your distance: learning dispersed embeddings on \\(\mathbb{S}_m\\)' accepted at TMLR!
 - **[Feb. 2025]** arXiv preprint on 'Keep your distance: learning dispersed embeddings on \\(\mathbb{S}_m\\)' is now available [here](https://arxiv.org/abs/2502.08231).
 
 {% include_relative _includes/publications.md %}
