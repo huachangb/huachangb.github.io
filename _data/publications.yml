@@ -16,6 +16,7 @@ main:
     workshop: CONSEQUENCES
     year: 2024
     pdf: https://doi.org/10.48550/arXiv.2409.09819
+    poster: https://drive.google.com/file/d/1VG_o4LBYLgq9nKJVcJoUaPRe54UPhDOr/view
 
   - title: "On the Matter of Embeddings Dispersion on Hyperspheres"
     authors: Evgeniia Tokarchuk, <strong>Hua Chang Bakker</strong>, Vlad Niculae
@@ -24,6 +25,7 @@ main:
     workshop: GRaM
     year: 2024
     pdf: https://openreview.net/pdf?id=yh4IjSjAhQ
+    poster: https://icml.cc/media/PosterPDFs/ICML%202024/38896.png?t=1721478723.3563519
 
 
 # preprint:
