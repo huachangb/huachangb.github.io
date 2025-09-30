@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am currently a graduate student in Artificial Intelligence at the University of Amsterdam, where I also completed my bachelor degrees in Artificial Intelligence (cum laude) and Information Science.
-My interests include (but are not limited to) geometry, representation learning and foundation models.
+My interests include (but are not limited to) geometry, representation learning and generative models.
 
 
 ## News
