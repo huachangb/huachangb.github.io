@@ -1,7 +1,5 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
 <ul style="margin:0 0 5px;">
-  <li><a href=""><autocolor>None</autocolor></a></li>
+  <li><a href=""><autocolor>Reviewer CONSEQUENCES workshop @ ACM RecSys </autocolor></a></li>
 </ul>
