@@ -1,8 +1,8 @@
 main:
 
   - title: "A Systematic Reproducibility Study of BSARec for Sequential Recommendation"
-    authors: Jan Hutter*, <strong>Hua Chang Bakker*</strong>, Stan Fris, Angela Madelon Bernardy*, Yuanna Liu
-    notes: *equal contribution, to appear in ECIR 20216 Proceedings
+    authors: "Jan Hutter*, <strong>Hua Chang Bakker*</strong>, Stan Fris, Angela Madelon Bernardy*, Yuanna Liu"
+    notes: "*equal contribution, to appear in ECIR 20216 Proceedings"
     conference_short: ECIR
     conference: European Conference on Information Retrieval
     year: 2026
