@@ -34,6 +34,7 @@ main:
     year: 2024
     pdf: https://openreview.net/pdf?id=yh4IjSjAhQ
     poster: https://icml.cc/media/PosterPDFs/ICML%202024/38896.png?t=1721478723.3563519
+    code: https://github.com/ltl-uva/ledoh-torch
 
 
 # preprint:
