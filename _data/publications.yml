@@ -6,6 +6,7 @@ main:
     conference_short: ECIR
     conference: European Conference on Information Retrieval
     year: 2026
+    code: https://github.com/Janhutter/BSARec
     
   - title: "Keep your distance: learning dispersed embeddings on \\(\\mathbb{S}_m\\)"
     authors: Evgeniia Tokarchuk, <strong>Hua Chang Bakker</strong>, Vlad Niculae
