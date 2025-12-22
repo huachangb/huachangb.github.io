@@ -6,6 +6,7 @@ main:
     conference_short: ECIR
     conference: European Conference on Information Retrieval
     year: 2026
+    preprint: https://arxiv.org/abs/2512.17442
     code: https://github.com/Janhutter/BSARec
     
   - title: "Keep your distance: learning dispersed embeddings on \\(\\mathbb{S}_m\\)"
