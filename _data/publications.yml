@@ -18,6 +18,8 @@ main:
     preprint: https://arxiv.org/abs/2502.08231
     code: https://github.com/ltl-uva/ledoh-torch
 
+workshop:
+
   - title: "A Simpler Alternative to Variational Regularized Counterfactual Risk Minimization"
     authors: <strong>Hua Chang Bakker</strong>, Shashank Gupta, Harrie Oosterhuis
     conference_short: RecSys
@@ -36,7 +38,6 @@ main:
     pdf: https://openreview.net/pdf?id=yh4IjSjAhQ
     poster: https://icml.cc/media/PosterPDFs/ICML%202024/38896.png?t=1721478723.3563519
     code: https://github.com/ltl-uva/ledoh-torch
-
 
 # preprint:
 
