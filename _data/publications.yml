@@ -6,6 +6,7 @@ main:
     conference_short: ECIR
     conference: European Conference on Information Retrieval
     year: 2026
+    pdf: https://link.springer.com/chapter/10.1007/978-3-032-21324-2_2
     preprint: https://arxiv.org/abs/2512.17442
     code: https://github.com/Janhutter/BSARec
     
