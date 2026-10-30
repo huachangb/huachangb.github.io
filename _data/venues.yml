@@ -1,0 +1,15 @@
+"ECIR":
+  url: https://ecir2026.eu/
+  color: "#1f6f8b"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#8b1f3a"
+
+"RecSys":
+  url: https://recsys.acm.org/
+  color: "#2e7d32"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#5e35b1"
